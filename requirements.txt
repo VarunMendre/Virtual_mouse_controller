@@ -1,0 +1,8 @@
+Flask==2.2.5
+opencv-python==4.8.0.76
+mediapipe==0.10.7
+pyautogui==0.9.54
+pycaw==20230407
+comtypes==1.1.14
+screen-brightness-control==0.13.0
+google.protobuf==4.25.1
